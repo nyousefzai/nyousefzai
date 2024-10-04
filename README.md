@@ -31,7 +31,6 @@ Welcome to my GitHub! I'm a full-stack software engineer with 10+ years of exper
 ## 📫 How to Reach Me
 
 - Personal Website: [NavidY.com](https://navidy.com)
-- Email: [navid22y@gmail.com](mailto:navid22y@gmail.com)
 - LinkedIn: [linkedin.com/in/navidyousefzai](https://linkedin.com/in/navidyousefzai)
 
 Thanks for visiting! Feel free to check out my projects or reach out for collaboration.
